@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/RobotoSlab-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: "Manrope";
+  src: url("../fonts/Manrope-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: "Dancing Spirit";
+  src: url("../fonts/DancingScript-VariableFont_wght.ttf");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Roboto ";
+}
+
+p {
+  font-family: "Manrope";
+}
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
